@@ -14,9 +14,8 @@ It came in one ~50lb box.  Everything was packaged very well and I appreciate th
 It was quickly discovered on the Siboor Discord that there were a few oversights in the first few units delivered:
 
 1. BOM quantity of the 6mm foam tape was 2, only 1 made it in the box
-2. Missing a couple printed parts for the carbon fiber X-axis
-3. Included part for mounting the power plug was wrong dimensions
-4. Some M5 flange nuts were out of spec and did not grip M5 bolts
+2. Included part for mounting the power plug was wrong dimensions
+3. Some M5 flange nuts were out of spec and did not grip M5 bolts
 
-My kit did not suffer from #4, as tested with some included M5 bolts.  However, I'd note that they seem of rather low quality.  I'm going to see what they're for and potentially replace these if they're for some critical piece (this might be foreshadowing).
+My kit did not suffer from #3, as tested with some included M5 bolts.  However, I'd note that they seem of rather low quality.  I'm going to see what they're for and potentially replace these if they're for some critical piece (this might be foreshadowing).
 
