@@ -7,7 +7,7 @@ I've been tinkering with 3D printers for 3 years now, and have owned and repaire
 ## Unboxing
 
 It came in one ~50lb box.  Everything was packaged very well and I appreciate the hardware organizer for all the screws and bits (and also that they included the BTT duckies!)
-<img src="img/unboxed.jpeg">
+<img src="img/unboxed.jpg">
 
 ## Issues found
 
