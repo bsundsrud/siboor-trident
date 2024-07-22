@@ -14,11 +14,11 @@ I hit the rails with a degreaser and paper towel, then isopropyl.  Once they wer
 
 All of the rails moved smoothly after greasing, and the rails themselves seem to have very little (if any) preload.
 
-I'm using WD-40 White Lithium Grease spray. 
+I'm using WD-40 White Lithium Grease spray.
 
 <img src="img/cleaned-rails.jpg">
 
-I mounted the Y-axis linear rails to the underside of the gantry and then mounted the bearing stacks and x0/y0 motors (the ones in front). 
+I mounted the Y-axis linear rails to the underside of the gantry and then mounted the bearing stacks and x0/y0 motors (the ones in front).
 
 On this kit, all these parts are CNC aluminum rather than printed parts.  I'm sure printed parts are fine, but I like the feel of the solid aluminum compared to ABS.
 

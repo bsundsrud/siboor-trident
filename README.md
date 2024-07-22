@@ -21,3 +21,4 @@
 * [Introduction and unboxing](intro.md)
 * [Frame construction](frame.md)
 * [Y-Axis](y-axis.md)
+* [X-Axis and Belts](x-axis.md)
