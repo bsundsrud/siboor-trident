@@ -3,6 +3,7 @@
 Time: 2.5 Hours
 
 <img src="img/z-axis.jpg">
+
 _Currently upside-down for easier Z-assembly and for adding the side skirts_
 
 We're out of CNC parts and now we're hewing closer to the standard Voron BOM, with an exception for some cable routing for the AWD motors.
