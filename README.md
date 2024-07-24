@@ -23,3 +23,4 @@
 * [Y-Axis](y-axis.md)
 * [X-Axis and Belts](x-axis.md)
 * [Z-Axis](z-axis.md)
+* [Skirts and initial electronics](skirts.md)
