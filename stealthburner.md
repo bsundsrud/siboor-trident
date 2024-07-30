@@ -10,7 +10,9 @@ This went together pretty well, though this is the first time I've had to improv
 
 <img src="img/toolhead-cw2-tensioner.jpg">
 
-I got a new #2 spring at the hardware store and cut it down to size (12mm according to the Voron documentation) and that works much better.  I can now adjust the tension between "It doesn't grip the filament at all" and "deathgrip" successfully.  I also adjusted the anti-squish-thingamajig (the technical term) to make sure that the gears are meshing well.
+I got a new #2 spring at the hardware store and cut it down to size (12mm according to the Voron documentation) and that works much better. I could have clipped the spring that came with the kit, but I was concerned about messing that up and being left with no spring at all, and $0.75 was a small price to pay for that insurance and enough spring to make 2 more toolheads.
+
+I can now adjust the tension between "It doesn't grip the filament at all" and "deathgrip" successfully.  I also adjusted the anti-squish-thingamajig (the technical term) to make sure that the gears are meshing well.
 
 The second problem I had to improvise around was the drag chain bracket.  This is meant to swivel freely so that the drag chain doesn't get stuck or impede the toolhead's movement, but as shown would either bind up or would be so loose as to rattle around.  It included two bearings and a bolt in a stack, but that was going straight into a printed part so there was print-to-print contact between the extruder and the arm.  I added a couple washers as shown below to engage the bearings alone and raise the arm up enough that the printed parts no longer interfered.  After that I could tighten it appropriately and still get smooth travel from the bracket.
 
