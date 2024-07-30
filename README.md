@@ -25,3 +25,4 @@
 * [Z-Axis](z-axis.md)
 * [Skirts and initial electronics](skirts.md)
 * [Bed](bed.md)
+* [Stealthburner](stealthburner.md)
