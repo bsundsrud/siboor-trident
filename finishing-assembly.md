@@ -30,7 +30,7 @@ The first was that the back panel where this mounts was missing a drilled hole f
 
 The second was that the pneumatic connector that fits into the fume pack can't do its job as advertised, as this connector is supposed to have PTFE tubing pass all the way through it from the outside spool holder to the toolhead to deliver filament.  The inside of the connector has a plastic stopper to stop tubing from being shoved too far in, so the tubing can't get inside the enclosure.  There's also nothing on the back side of the connector to grip tubing, so you can't use a separate piece of tubing for the run from the fume pack to the tool head.
 
-<img src="img/finish-fume-pack.jpg>
+<img src="img/finish-fume-pack.jpg">
 
 ## Reinforcements
 
