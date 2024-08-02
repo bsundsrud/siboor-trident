@@ -26,3 +26,4 @@
 * [Skirts and initial electronics](skirts.md)
 * [Bed](bed.md)
 * [Stealthburner](stealthburner.md)
+* [Finishing Assembly](finishing-assembly.md)
