@@ -27,3 +27,4 @@
 * [Bed](bed.md)
 * [Stealthburner](stealthburner.md)
 * [Finishing Assembly](finishing-assembly.md)
+* [Assembly Errata](assembly-errata.md)
