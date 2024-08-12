@@ -28,3 +28,4 @@
 * [Stealthburner](stealthburner.md)
 * [Finishing Assembly](finishing-assembly.md)
 * [Assembly Errata](assembly-errata.md)
+* [Software 1: Flashing](base-install.md)
