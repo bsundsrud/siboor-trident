@@ -29,3 +29,5 @@
 * [Finishing Assembly](finishing-assembly.md)
 * [Assembly Errata](assembly-errata.md)
 * [Software 1: Flashing](base-install.md)
+* [Software 2: Plugins and Config](klipper.md)
+* Calibration
