@@ -80,6 +80,6 @@ I skipped the other tests for now, if I want to chase max flow or the like I can
 
 I started with [Crydteam's Orca Slicer Profile](https://github.com/cryd-s/siboor_trident/blob/main/Orca_Profile.3mf) and copied the settings into my own profiles, and updated my max accels from the input shaper results.  
 
-I've recompiled these into an `.orca_printer` archive for easier importing, the only thing that needs to be set is the bed shape via [these instructions](https://docs.siboor.com/siboor-trident-june/3the-build/slicer-setup#set-bed-shape).
+I've recompiled these into an `.orca_printer` archive [here](slicer/Siboor%20AWD%20Trident.orca_printer) for easier importing, the only thing that needs to be set is the bed shape via [these instructions](https://docs.siboor.com/siboor-trident-june/3the-build/slicer-setup#set-bed-shape).
 
 <img src="img/Voron-Cube.jpg">
